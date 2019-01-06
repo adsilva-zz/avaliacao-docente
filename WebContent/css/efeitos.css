@@ -1,0 +1,100 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	height: 100%;
+	border-spacing: 0;
+	border-collapse: collapse;
+	background-color: #DCDCDC;
+	text-align: center;
+	font-style: normal;
+	font-family: Arial;
+	vertical-align: top;
+}
+
+.corpo {
+	text-align: center;
+	background-color: #DCDCDC;
+	vertical-align: middle;
+}
+
+.menu {
+	position: relative;
+	height: 30px;
+	background-color: #D3D3D3;
+}
+
+.topo {
+	position: relative;
+	height: 90px;
+}
+
+.meio {
+	position: relative;
+	min-height: 400px;
+	background-color: #DCDCDC;
+}
+
+.rodape {
+	height: 35px;
+}
+
+table {
+	text-align: center;
+	padding: 0px;
+	margin: 0px;
+	border: none;
+	border-spacing: 0;
+	border-collapse: collapse;
+	vertical-align: middle;
+}
+
+html {
+	height: 100%;
+	border-spacing: 0;
+	border-collapse: collapse;
+}
+
+.espaco {
+	padding: 10px;
+}
+
+img {
+	border: none;
+	border-spacing: 0;
+}
+
+.erros {
+	font-size: small;
+	font-family: verdana;
+	font-style: italic;
+	color: #EE0000;
+}
+
+.avaliacao {
+	color: #1C1C1C;
+	font-size: 40px;
+}
+
+#menulinha ul {
+	padding:0px;
+	margin:0px;
+	background-color:#D3D3D3;
+	list-style:none;
+	vertical-align: top;
+}
+
+#menulinha ul li { 
+	display: inline; 
+}
+
+#menulinha ul li a {
+	padding: 1px 25px;
+	display: inline-block;
+	color: #333;
+	text-decoration: none;
+}
+
+#menulinha ul li a:hover {
+	color: #6D6D6D;
+	border-bottom:3px solid #EA0000;
+}

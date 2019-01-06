@@ -1,0 +1,8 @@
+*.class
+.classpath
+.project
+.settings
+.factorypath
+build
+.apt_generated
+target
